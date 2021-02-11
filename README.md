@@ -1,6 +1,6 @@
 # Robofriends
 
-This project was created using React and it consists of a search function that filters fictional characters. The filtered characters are displayed in a card according if there's a match between their name and the user's search.
+This project was created using React and Redux to manage the app state. It consists of a search function that filters fictional characters. The filtered characters are displayed in a card according if there's a match between their name and the user's search.
 
 ## Table of contents
 
@@ -17,6 +17,7 @@ A live version of the project can be seen here: https://kauwai.github.io/robofri
 ## Technologies
 
 - [React - 17.0.1](https://reactjs.org/);
+- [Redux - 4.0.5](https://redux.js.org/);
 - [RoboHash API](https://robohash.org/);
 - [JSON Placeholder - Users](https://jsonplaceholder.typicode.com/users)
 
@@ -27,11 +28,11 @@ To run this project you can use either npm or yarn to download the dependencies.
 ### Using npm
 
 1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+2. Run `npm install` to install the project dependencies.
+3. Run `npm start` to run the project.
 
 ### Using yarn
 
 1. Clone this repo
-2. Run `yarn`
-3. Run `yarn start`
+2. Run `yarn` to install the project dependencies.
+3. Run `yarn start` to run the project.
