@@ -12,7 +12,7 @@ This project was created using React and Redux to manage the app state. It consi
 
 This project came as a result of a ZTM lesson. However, I opted to use React's useState and useEffect instead of Lifecycle Components and Class States, since theformer are more modern.
 
-A live version of the project can be seen here: https://kauwai.github.io/robofriends/
+A live version of the project can be seen here: <https://kauwai.github.io/robofriends-redux/>
 
 ## Technologies
 
