@@ -11,3 +11,8 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.redux-header {
+  background: -webkit-linear-gradient(#008080, #5b7cd6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

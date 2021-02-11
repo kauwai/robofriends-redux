@@ -42,6 +42,7 @@ const App = ({
   ) : (
     <div className="tc">
       <h1 className="f1">Robofriends</h1>
+      <h2 className="redux-header">Redux Version</h2>
       <SearchBox onSearchChange={handleSearchChange} />
       <Scroll>
         <CardList robotsToDisplay={filteredRobots} />
