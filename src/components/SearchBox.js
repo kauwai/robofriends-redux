@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function SearchBox({ onRobotSearch }) {
+export default function SearchBox({ onSearchChange }) {
   const handleSearch = ({ target }) => {
     const { value } = target;
-    onRobotSearch(value);
+    onSearchChange(value);
   };
 
   return (
