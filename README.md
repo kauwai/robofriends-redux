@@ -1,4 +1,4 @@
-# Robofriends
+# Robofriends - Redux
 
 This project was created using React and Redux to manage the app state. It consists of a search function that filters fictional characters. The filtered characters are displayed in a card according if there's a match between their name and the user's search.
 
