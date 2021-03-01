@@ -23,7 +23,7 @@ A live version of the project can be seen here: <https://kauwai.github.io/robofr
 
 ## Running the project
 
-To run this project you can use either npm or yarn to download the dependencies.
+To run this project you can use either npm or yarn to download and install the dependencies.
 
 ### Using npm
 
