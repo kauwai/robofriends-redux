@@ -27,12 +27,12 @@ To run this project you can use either npm or yarn to download the dependencies.
 
 ### Using npm
 
-1. Clone this repo
+1. Clone this repo.
 2. Run `npm install` to install the project dependencies.
 3. Run `npm start` to run the project.
 
 ### Using yarn
 
-1. Clone this repo
+1. Clone this repo.
 2. Run `yarn` to install the project dependencies.
 3. Run `yarn start` to run the project.
